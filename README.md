@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>
+
+<br><br>
+
+<br></br>
+
+### 🎧 Now Playing ♫
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leon_279&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=00e1ff&bar_color_cover=false)](https://open.spotify.com/user/leon_279)
+
+
+
+ - DLC 
+   - I love video games.
+   - Fishing a lot.
+   - Novice cook.
+
+<br></br>
