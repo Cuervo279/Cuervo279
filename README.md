@@ -1,27 +1,26 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Cuervo279/Cuervo279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bio:
 
-Here are some ideas to get you started:
+Me chamo Leonardo Cuervo, estou graduando em Engenharia da Computação e gosto muito de tecnologias, inovações, design, games e pescaria.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contate-me:
+[![Minha conta na DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://dio.me/users/leon_279)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:contato.cuervo279@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/leonardo-bastos-da-silva-9a032541/)
+
+
+## Skills:
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+## Git Stats
+
+Aqui você confere toda minha performance e contribuições no Github.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cuervo279&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cuervo279&theme=react&show_icons=true&layout=compact)
-
-<h2>
-
-<br><br>
-
-<br></br>
 
 ### 🎧 Now Playing ♫
 
@@ -31,5 +30,3 @@ Here are some ideas to get you started:
    - I love video games.
    - Fishing a lot.
    - Novice cook.
-
-<br></br>
