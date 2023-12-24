@@ -3,6 +3,7 @@
 ## Bio:
 
 Me chamo Leonardo Cuervo, estou graduando em Engenharia da Computação e gosto muito de tecnologias, inovações, design, games e pescaria.
+Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://cuervo279.github.io))
 
 ## Contate-me:
 [![Minha conta na DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://dio.me/users/leon_279)
