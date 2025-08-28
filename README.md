@@ -79,4 +79,4 @@ Aqui você confere toda minha performance e contribuições no Github.
 
 ### Awards / Badges / Challenges
 
-![World's Largest Hackathon](https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F392%2FWLH_Badges-05.png)
+![World's Largest Hackathon](https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F392%2FWLH_Badges-05.png) World's Largest Hackathon
