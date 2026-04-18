@@ -60,8 +60,8 @@ Me chamo Leonardo Cuervo, estou graduando em Engenharia da Computação e gosto 
 
 Aqui você confere toda minha performance e contribuições no Github.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cuervo279&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cuervo279&theme=react&show_icons=true&layout=compact)
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cuervo279&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cuervo279&theme=react&show_icons=true&layout=compact) |
+| ------------- | ------------- |
 
 ### 🎧 Now Playing ♫
 
