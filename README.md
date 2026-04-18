@@ -86,3 +86,4 @@ Aqui você confere toda minha performance e contribuições no Github.
 
 ### RPG CARD
 ![RPG Card](https://github.com/Cuervo279/github-devrpg-readme/blob/main/card.svg)
+![Dev RPG](https://raw.githubusercontent.com/Cuervo279/dev-rpg/main/card.svg)
