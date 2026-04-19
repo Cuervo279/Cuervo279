@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![RPG Card](https://github.com/Cuervo279/github-devrpg-readme/blob/main/card.svg)
+![RPG Card](https://github.com/Cuervo279/github-devcard-readme/blob/main/card.svg)
 
 ## Bio:
 
