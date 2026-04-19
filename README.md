@@ -67,7 +67,7 @@ Aqui você confere toda minha performance e contribuições no Github.
 
 ### 🎧 Now Playing ♫
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=leon_279&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=00fbff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=leon_279&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=leon_279&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=00fbff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=leon_279&redirect=true)
 
  - DLC 
    - I love video games.
