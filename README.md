@@ -67,8 +67,8 @@ Aqui você confere toda minha performance e contribuições no Github.
 
 ### 🎧 Now Playing ♫
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leon_279&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=00e1ff&bar_color_cover=false)](https://open.spotify.com/user/leon_279)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=leon_279&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=00d5ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=leon_279&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=00fbff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=leon_279&redirect=true)
+
  - DLC 
    - I love video games.
    - Fishing a lot.
