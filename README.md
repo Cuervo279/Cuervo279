@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![GitHub RPG Stats](https://github-devrpg-readme.vercel.app/api/stats?username=cuervo279)
+![GitHub RPG Stats](https://github-devrpg-readme.vercel.app/api/card?user=cuervo279)
 
 ## Bio:
 
